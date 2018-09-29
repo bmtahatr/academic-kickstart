@@ -16,10 +16,10 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-#[[education.courses]]
-#  course = "PhD in Artificial Intelligence"
-#  institution = "Stanford University"
-#  year = 2012
+[[education.courses]]
+  course = "Preparation of a PhD in Computer Science"
+  institution = "University of Boumerdes, Algeria"
+  year = (on going)
 
 [[education.courses]]
   course = "Magister degree in Advence Information Systems"
