@@ -65,13 +65,13 @@ enableGitInfo = false
   organizations = [ { name = "University of Boumerdes", url = "www.univ-boumerdes/dz" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  avatar = "Mbennai_pro-picture.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "m.bennai@univ-boumerdes.dz"
+  address = "faculty of sciences, M'hamed Bougara university, Boumerdes, 35000, Algeria"
+  office_hours = "Thursday 11:30 to 12:30 or email for appointment"
+  #phone = "888 888 88 88"
+  skype = "Mohamed.T.Bennai"
+  #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -115,7 +115,7 @@ enableGitInfo = false
   reading_time = true
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
