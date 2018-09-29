@@ -1,6 +1,6 @@
 +++
-title = "Mobile visual clothing search"
-date = 2013-07-01T00:00:00
+title = "Towards a Generic Multi-agent Approach for Medical Image Segmentation"
+date = 2017-10-30T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Mohamed T Bennai","Zahia Guessoum","Smaine Mazouzi","Stéphane Cormier","Mohamed Mezghiche"]`.
@@ -18,7 +18,7 @@ authors = ["Mohamed T Bennai","Zahia Guessoum","Smaine Mazouzi","Stéphane Cormi
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "owards a Generic Multi-agent Approach for Medical Image Segmentation. In: An B., Bazzan A., Leite J., Villata S., van der Torre L. (eds) PRIMA 2017: Principles and Practice of Multi-Agent Systems. PRIMA 2017. Lecture Notes in Computer Science, vol 10621. Springer, Cham"
+publication = "In: An B., Bazzan A., Leite J., Villata S., van der Torre L. (eds) PRIMA 2017: Principles and Practice of Multi-Agent Systems. PRIMA 2017. Lecture Notes in Computer Science, vol 10621. Springer, Cham"
 publication_short = "In LNCS, vol 10621"
 
 # Abstract and optional shortened version.
@@ -55,7 +55,7 @@ url_source = "https://link.springer.com/chapter/10.1007/978-3-319-69131-2_12"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -66,8 +66,8 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "headers/bubbles-wide.jpg"
-#caption = "My caption :smile:"
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
 
 +++
 
