@@ -16,10 +16,10 @@ weight = 5
   ]
 
 # List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Preparation of a PhD in Computer Science"
-  institution = "University of Boumerdes, Algeria"
-  year = (on going)
+#[[education.courses]]
+#  course = "Preparation of a PhD in Computer Science"
+#  institution = "University of Boumerdes, Algeria"
+#  year = 2019
 
 [[education.courses]]
   course = "Magister degree in Advence Information Systems"
@@ -29,7 +29,7 @@ weight = 5
 [[education.courses]]
   course = "Engineering degree in Computer Science"
   institution = "University of Boumerdes, Algeria "
-  year = 20010
+  year = 2010
  
 +++
 
