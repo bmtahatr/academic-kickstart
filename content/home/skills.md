@@ -24,14 +24,14 @@ weight = 20
 [[feature]]
   icon = "microscope"
   icon_pack = "fa"
-  name = "Researcher"
+  name = "Research Experience"
   description = "Researching in image segmentation techniques field in collaboration with the Crestic center of Reims University"
 
  
  [[feature]]
   icon = "code"
   icon_pack = "fa"
-  name = "Microsoft .net Development"
+  name = "Microsoft .net Development Experience"
   description = "Developing application with Microsoft .Net technologies on Visal Studio Since 2009"
 
 +++
