@@ -16,28 +16,23 @@ weight = 20
 # See `config.toml` for more info on available icons.
 
 [[feature]]
-  icon = "graduation-cap "
+  icon = "chalkboard-teacher"
   icon_pack = "fa"
-  name = "Google Certified Educator"
-  description = "Level 1"
+  name = "Teaching Experience"
+  description = "Assistant professor at the University of Boumerdes since 2013 and Gooogle Certified Educator"
   
 [[feature]]
-  icon = "brain"
+  icon = "microscope"
   icon_pack = "fa"
-  name = "Medical Image Segmentation"
-  description = "image segmentation techniques"
+  name = "Researcher"
+  description = "Researching in image segmentation techniques field in collaboration with the Crestic center of Reims University"
 
-[[feature]]
-  icon = "user-secret"
-  icon_pack = "fa"
-  name = "Multi-agent systems"
-  description = "Multi-agent modelisation"
-  
+ 
  [[feature]]
   icon = "code"
   icon_pack = "fa"
   name = "Microsoft .net Development"
-  description = "Multi-agent modelisation"
+  description = "Developing application with Microsoft .Net technologies on Visal Studio Since 2009"
 
 +++
  
