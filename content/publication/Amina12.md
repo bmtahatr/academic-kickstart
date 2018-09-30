@@ -1,10 +1,10 @@
 +++
-title = "Towards a Generic Multi-agent Approach for Medical Image Segmentation"
-date =  2017-10-30T00:00:00 
+title = "A Multi-Agent Model For Adaptative Image Segmentation With Connected Homogeneous Regions"
+date =  2012-12-01T00:00:00 
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Mohamed T Bennai","Zahia Guessoum","Smaine Mazouzi","Stéphane Cormier","Mohamed Mezghiche"]
+authors = ["Jason Mahdjoubi","Zahia Guessoum","Smaine Mazouzi","Mohamed Tahar Bennai"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Mohamed T Bennai","Zahia Guessoum","Smaine Mazouzi","Stéphane Cormi
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In: An B., Bazzan A., Leite J., Villata S., van der Torre L. (eds) PRIMA 2017: Principles and Practice of Multi-Agent Systems. PRIMA 2017. Lecture Notes in Computer Science, vol 10621. Springer, Cham"
-publication_short = "In LNCS, vol 10621"
+publication = "AMINA 2012 : The sixth international workshop on medical and healthcare applications, Mahdia, Tunisia"
+publication_short = "AMINA 2012"
 
 # Abstract and optional shortened version.
-abstract = "Medical image segmentation is a difficult task, essentially due to the inherent complexity of human body structures and the acquisition methods of this kind of images. Manual segmentation of medical images requires advance radiological expertize and is also very time-consuming. Several methods have been developed to automatize medical image segmentation, including multi-agent approaches. In this paper, we propose a new multi-agent approach based on a set of autonomous and interactive agents that integrates an enhanced region growing algorithm. It does not require any prior knowledge. This approach was implemented and experiments were performed on brain MRI simulated images and the obtained results are promising."
+abstract = "In this paper we introduce a new multi-agent based approach with which a 2D image could be segmented into it’s connected homogeneous regions. it consists in an adaptive approach in the sense that it does not need neither thresholds nor calibration. Moreover, the approach is robust and is stable against the presence of noise in the image. It can be included as it is in  classical  image  processing  systems,  while  being  a  new  approach  to  enhance  as  a  perspective  toward  a  self-adaptive  artificial  vision  system.  Experiment  results  on  synthetic and  real  images  have  shown  that  the  approach  is  well  appropriate  to  image  segmentation without any kind of parameter learning."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://jason.mahdjoub.free.fr/publications/article5.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://link.springer.com/chapter/10.1007/978-3-319-69131-2_12"
+url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

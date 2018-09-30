@@ -4,9 +4,9 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = false
+active = true
 
-title = ""
+title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -16,15 +16,28 @@ weight = 20
 # See `config.toml` for more info on available icons.
 
 [[feature]]
-  icon = "files-o"
+  icon = "graduation-cap "
   icon_pack = "fa"
-  name = "Data Driven"
-  description = "..."
+  name = "Google Certified Educator"
+  description = "Level 1"
   
 [[feature]]
-  icon = "pencil"
+  icon = "brain"
   icon_pack = "fa"
-  name = "Math"
-  description = "..."
+  name = "Medical Image Segmentation"
+  description = "image segmentation techniques"
+
+[[feature]]
+  icon = "user-secret"
+  icon_pack = "fa"
+  name = "Multi-agent systems"
+  description = "Multi-agent modelisation"
+  
+ [[feature]]
+  icon = "code"
+  icon_pack = "fa"
+  name = "Microsoft .net Development"
+  description = "Multi-agent modelisation"
 
 +++
+ 

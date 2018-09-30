@@ -50,11 +50,11 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "1950s"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "playfair"
 
   # Your details.
   name = "Moahmed Tahar Bennai"
@@ -62,7 +62,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Boumerdes", url = "www.univ-boumerdes/dz" } ]
+  organizations = [ { name = "University of Boumerdes", url = "http://www.univ-boumerdes.dz" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "Mbennai_pro-picture.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -227,22 +227,27 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:test@example.org"
+    link = "mailto:m.bennai@univ-boumerdes.dz"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://twitter.com/mtbennai"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.co.uk/citations?user=iSt-Sa0AAAAJ&hl=fr&oi=ao"
 
   [[params.social]]
-    icon = "github"
+    icon = "facebook-square"
     icon_pack = "fab"
-    link = "//github.com/gcushen"
+    link = "https://www.facebook.com/mohamed.bennai.12327"
+	
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://dz.linkedin.com/in/mohamed-tahar-bennai-a319b821"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -270,14 +275,14 @@ enableGitInfo = false
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Skills"
+  url = "#skills"
   weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
   name = "Teaching"
@@ -302,7 +307,7 @@ enableGitInfo = false
   #   0: No search engine
   #   1: Built-in (Fuse)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

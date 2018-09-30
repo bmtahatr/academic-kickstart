@@ -1,6 +1,6 @@
 +++
-title = "Towards a Generic Multi-agent Approach for Medical Image Segmentation"
-date =  2017-10-30T00:00:00 
+title = "A Generic Multi-Agent Framework for Medical-Image Segmentation"
+date =  2018-01-29T00:00:00 
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,11 +18,11 @@ authors = ["Mohamed T Bennai","Zahia Guessoum","Smaine Mazouzi","Stéphane Cormi
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In: An B., Bazzan A., Leite J., Villata S., van der Torre L. (eds) PRIMA 2017: Principles and Practice of Multi-Agent Systems. PRIMA 2017. Lecture Notes in Computer Science, vol 10621. Springer, Cham"
-publication_short = "In LNCS, vol 10621"
+publication = "Proceedings of the Demonstrations Track of PRIMA 2017,CEUR Workshop Proceedings vol 2056. CEUR"
+publication_short = "CEUR, vol 2056"
 
 # Abstract and optional shortened version.
-abstract = "Medical image segmentation is a difficult task, essentially due to the inherent complexity of human body structures and the acquisition methods of this kind of images. Manual segmentation of medical images requires advance radiological expertize and is also very time-consuming. Several methods have been developed to automatize medical image segmentation, including multi-agent approaches. In this paper, we propose a new multi-agent approach based on a set of autonomous and interactive agents that integrates an enhanced region growing algorithm. It does not require any prior knowledge. This approach was implemented and experiments were performed on brain MRI simulated images and the obtained results are promising."
+abstract = "Medical images offer visual representations of human bodies’ complex internal structures. One of the most common process applied to those images is segmentation. It consists in dividing an image into a set of regions of interest. Human anatomical complexity and medical image acquisition methods make the segmentation of medical images very complex. Several solutions (algorithms and devices) have thus been proposed to automatize this process. However, most existing solutions were developed for one type of images and/or require several inputs of the user. In this demo, we propose a generic multi-agent framework for medical image segmentation. This framework is based on a set of autonomous and interactive agents that use a modified region growing algorithm and cooperate to segment the images. Experiments were performed on brain MRI simulated images and the obtained results are promising."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://ceur-ws.org/Vol-2056/p1.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,7 +51,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://link.springer.com/chapter/10.1007/978-3-319-69131-2_12"
+url_source = "http://ceur-ws.org/Vol-2056/"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
